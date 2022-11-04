@@ -54,5 +54,5 @@ def factorial(n):
 print(factorial(3))
 ```
 
-![picture/meme.jpg](picture/meme.jpg)
+![Picture/meme.jpg](Picture/meme.jpg)
 
