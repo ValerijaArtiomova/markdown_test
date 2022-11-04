@@ -1,7 +1,7 @@
 # markdown_test
 stepik
 
-# Test Markdown :)
+# Test Markdown :wink: :smile_cat:
 
 Nowy paragraf_1 </br>some text text text ...
 
